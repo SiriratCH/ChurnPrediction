@@ -25,12 +25,14 @@ I started by examining the data characteristics, specifically the data types of 
   - Identify the most relevant features that impact customer churn through techniques such as:
 Correlation analysis.
   - Feature importance from models
-    
-**Step 4: Create the Model**
+
+
+- **Step 4: Create the Model**
+  
   - Create Model using LogisticRegression algorithms
     
     ``` lr = LogisticRegression()```
     
-**Step 5: Submit the Assignment**
+- **Step 5: Submit the Assignment**
 
-- Generate predictions and evaluate the model using the AUC score to determine the model's effectiveness.
+  - Generate predictions and evaluate the model using the AUC score to determine the model's effectiveness.
